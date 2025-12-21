@@ -1,0 +1,13 @@
+# Core Dependencies
+PyYAML>=5.1
+click>=7.1.0
+
+# Optional Dependencies for Enhanced Features
+yara-python>=4.2.0
+pefile>=2019.4.18
+
+# Testing and Development
+pytest>=6.0
+pytest-cov>=2.10.0
+black>=20.8b1
+flake8>=3.8.0
