@@ -1,5 +1,10 @@
 # Custom Payload Encoder & Obfuscation Framework
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub Actions](https://github.com/gauravmalhotra3300-hub/payload-encoder-obfuscation-framework/workflows/Python%20CI/CD/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
 A comprehensive Python framework for studying payload encoding, obfuscation, and evasion techniques. This toolkit is designed for cybersecurity professionals, red teamers, and defensive security researchers to understand how offensive payloads can be transformed to evade signature-based detection systems.
 
 ## 📋 Table of Contents
